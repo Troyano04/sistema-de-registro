@@ -6,4 +6,4 @@ Para ejecutae el sistema, debes poner:
 
 ```npm install react```
 
-Sistema de Refistro 2
+Sistema de Registro 2
